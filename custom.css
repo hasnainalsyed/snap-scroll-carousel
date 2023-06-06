@@ -134,7 +134,7 @@ p {
 
 .thumbnail__item {
   margin: 4px 10px;
-  flex: 0 0 calc(100% / 2 - 20px);
+  flex: 0 0 calc(100% / 3 - 20px);
   height: 100px;
   background-color: #707070;
   cursor: pointer;
